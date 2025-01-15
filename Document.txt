@@ -1,0 +1,49 @@
+Project Overview:
+This project focuses on evaluating the participants' ability to implement decision-making logic using the switch-case statement in Java. The switch-case statement allows for cleaner and more readable code compared to multiple if-else-if statements. This document presents the tasks, Java code for implementation, and a test case class to evaluate the use of the switch-case statement.
+
+Learning Objectives:
+By the end of this project, participants will be able to:
+
+Use the switch-case statement for conditional decisions.
+Replace if-else-if statements with switch-case for more compact and readable code.
+Solve problems using switch-case statements instead of traditional conditional structures.
+Assessment Tasks:
+Task 1: Day of the Week
+
+Write a program that checks the name of the day based on the given integer (1 to 7), using the switch-case statement.
+Example:
+
+Input: day = 3
+Output: "Wednesday"
+Task 2: Number of Days in a Month
+
+Write a program that returns the number of days in a month, based on the given month number (1 to 12), using the switch-case statement.
+Example:
+
+Input: month = 2
+Output: "28 or 29 days"
+Task 3: Check Grade Based on Marks
+
+Write a program that assigns a grade based on the given marks using the switch-case statement.
+A: 90 to 100
+B: 75 to 89
+C: 50 to 74
+F: Below 50
+Example:
+
+Input: marks = 82
+Output: "Grade: B"
+Task 4: Month Name
+
+Write a program that prints the month name based on the month number (1 to 12) using the switch-case statement.
+Example:
+
+Input: month = 5
+Output: "May"
+Task 5: Calculate the Season
+
+Write a program that checks the season (Spring, Summer, Fall, Winter) based on the month number using the switch-case statement.
+Example:
+
+Input: month = 12
+Output: "Winter"
